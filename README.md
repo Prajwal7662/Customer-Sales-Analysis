@@ -43,7 +43,8 @@ The schema follows a star schema design for efficient analysis.
 - Dashboard design best practices
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ## 📐 Data Model
-![Model](screenshots/model_relationship.png)
+![Model](./screenshots/model_relationship.png)
+
