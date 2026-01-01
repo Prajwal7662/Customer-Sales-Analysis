@@ -12,9 +12,13 @@ The goal is to extract meaningful business insights and visualize them through a
 
 ## 📂 Project Structure
 Customer-Sales-Analysis/
+
 ├── sql/
+
 ├── powerbi/
+
 ├── screenshots/
+
 └── README.md
 
 ## 🗄 Database Design
