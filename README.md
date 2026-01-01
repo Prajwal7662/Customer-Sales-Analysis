@@ -41,9 +41,11 @@ The schema follows a star schema design for efficient analysis.
 - Power BI data modeling
 - DAX measures
 - Dashboard design best practices
+
 ## 📸 Dashboard Preview
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📐 Data Model
-![Data Model](./screenshots/Model_relationship.png)
+![Data Model](Model_relationship.png)
+
 
